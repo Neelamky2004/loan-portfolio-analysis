@@ -34,6 +34,7 @@ build a simple dashboard and collections list from them.
 |---|---|
 | Dashboard | KPI tiles and 4 charts |
 | Grade_Summary | loans, funded amount and default rate by grade using COUNTIFS / SUMIFS / AVERAGEIFS, risk band with VLOOKUP |
+| Pivot_Purpose | Pivot Table: number of loans by purpose and grade |
 | Monthly_Trend | loans and funded amount per month |
 | Status_Buckets | Current, Grace, 16-30 days late, 31-120 days late, Default, Fully Paid |
 | Vintage | default rate by the quarter the loan was issued |
