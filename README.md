@@ -4,6 +4,8 @@ Analysis of 42,535 personal loans (LendingClub, issued 2007–2011) using Python
 The goal was to track the main lending KPIs — disbursal, interest rate, delinquency and default — and
 build a simple dashboard and collections list from them.
 
+**Live Tableau dashboard:** [Loan Portfolio Dashboard](https://public.tableau.com/app/profile/neelam.kumari1436/viz/LoanPortfolioDashboard_17902891938260/LoanPortfolioDashboard)
+
 ![Dashboard](output/dashboard.png)
 
 ## Tools
