@@ -4,6 +4,8 @@ Analysis of 42,535 personal loans (LendingClub, issued 2007–2011) using Python
 The goal was to track the main lending KPIs — disbursal, interest rate, delinquency and default — and
 build a simple dashboard and collections list from them.
 
+![Dashboard](output/dashboard.png)
+
 ## Tools
 
 - **Python (Pandas)** – cleaning the raw file and loading it into PostgreSQL
@@ -76,7 +78,8 @@ loan-portfolio-analysis/
 │   ├── load_data.py
 │   └── build_report.py
 ├── output/
-│   └── loan_portfolio_report.xlsx
+│   ├── loan_portfolio_report.xlsx
+│   └── dashboard.png
 └── requirements.txt
 ```
 
